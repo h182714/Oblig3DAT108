@@ -1,4 +1,4 @@
-package oblig3dat108.src.no.hvl.dat108;
+package no.hvl.dat108;
 
 import java.security.MessageDigest;
 import java.security.SecureRandom;
